@@ -1,0 +1,13 @@
+{
+  "name": "js-blockchain",
+  "version": "1.0.0",
+  "description": "Simple Blockchain",
+  "main": "index.js",
+  "author": "NotArtyom",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "elliptic": "^6.5.4",
+    "esm": "^3.2.25"
+  }
+}
